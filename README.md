@@ -10,5 +10,5 @@
     <li>De Verde pasa a Amarillo.</li>
 </ul>
 
-<p> Pagina para consultar el resultado final <a href="trafficlightsnad.netlify.app"> trafficlightsnad.netlify.app </a></p> 
+ Pagina para consultar el resultado final  trafficlightsnad.netlify.app 
 
